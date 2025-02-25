@@ -1,4 +1,4 @@
 # cephsig
 multisig management.
 
-![logo](cephsig.jpg)
+![logo](cephsig2.jpg)
